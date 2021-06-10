@@ -5,6 +5,8 @@
 
 Developer relations at [Frontity](https://frontity.org/).
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mburridge)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mmburridge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn logo" height="30" width="40" /></a>
 <a href="https://twitter.com/michaelburridge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter logo" height="30" width="40" /></a>
@@ -13,6 +15,8 @@ Developer relations at [Frontity](https://frontity.org/).
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 -->
 </p>
+
+
 <!--
 **mburridge/mburridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
