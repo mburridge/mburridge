@@ -1,11 +1,12 @@
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mburridge)
+
 [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
 
 Developer relations at [Frontity](https://frontity.org/).
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mburridge)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mmburridge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn logo" height="30" width="40" /></a>
