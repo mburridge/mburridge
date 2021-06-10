@@ -1,5 +1,4 @@
- [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
- ## Developer relations at [Frontity](https://frontity.org/)
+  ## [![Frontity logo](./assets/frontity-logo-sm.png)](https://frontity.org/) Developer relations at [Frontity](https://frontity.org/)
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
