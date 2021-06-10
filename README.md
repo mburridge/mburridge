@@ -1,9 +1,10 @@
+ [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
+ ## Developer relations at [Frontity](https://frontity.org/)
+
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mburridge)
-
-## [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/) Developer relations at [Frontity](https://frontity.org/).
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
