@@ -2,6 +2,7 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
+
 Developer relations at [Frontity](https://frontity.org/).
 <!--
 **mburridge/mburridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
