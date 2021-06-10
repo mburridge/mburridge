@@ -1,4 +1,4 @@
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=gruvbox)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=radical)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 Developer relations at [Frontity](https://frontity.org/).
