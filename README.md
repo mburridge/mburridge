@@ -1,4 +1,4 @@
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=radical)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=radical&hide_border)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
