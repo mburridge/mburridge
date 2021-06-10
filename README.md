@@ -3,9 +3,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mburridge)
 
-[![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/)
-
-Developer relations at [Frontity](https://frontity.org/).
+## [![Frontity logo](./assets/frontity-logo.png)](https://frontity.org/) Developer relations at [Frontity](https://frontity.org/).
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
