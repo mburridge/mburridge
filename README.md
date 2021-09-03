@@ -1,9 +1,4 @@
-## Developer Relations Wrangler at [Automattic ![Automattic logo](https://automattic.com/wp-content/themes/a8c/automattic-2011/page-templates/assets/2016-annual-report/images/logo-automattic-white.png?fit40)](https://automattic.com/)
-
-
-
-https://i2.wp.com/distributed.blog/wp-content/uploads/2019/02/90476-automattic-logo-25.png?zoom=1&fit=40%2C159&ssl=1
-
+## Developer Relations Wrangler at [Automattic](https://automattic.com/)
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
