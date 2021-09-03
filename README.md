@@ -1,6 +1,8 @@
-## Developer Relations Wrangler at [Automattic ![Automattic logo](https://i2.wp.com/distributed.blog/wp-content/uploads/2019/02/90476-automattic-logo-25.png?zoom=1&fit=40%2C159&ssl=1)](https://automattic.com/)
+## Developer Relations Wrangler at [Automattic ![Automattic logo](https://automattic.com/wp-content/themes/a8c/automattic-2011/page-templates/assets/2016-annual-report/images/logo-automattic-white.png)](https://automattic.com/)
 
-![image](https://user-images.githubusercontent.com/20643925/132028194-6594f777-92ed-480a-9be5-6b30bfc6b2d2.png)
+
+
+https://i2.wp.com/distributed.blog/wp-content/uploads/2019/02/90476-automattic-logo-25.png?zoom=1&fit=40%2C159&ssl=1
 
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
