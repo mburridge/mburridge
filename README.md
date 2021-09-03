@@ -1,4 +1,4 @@
-## Developer Relations Wrangler at [Automattic ![Automattic logo](https://automattic.com/wp-content/themes/a8c/automattic-2011/page-templates/assets/2016-annual-report/images/logo-automattic-white.png)](https://automattic.com/)
+## Developer Relations Wrangler at [Automattic ![Automattic logo](https://automattic.com/wp-content/themes/a8c/automattic-2011/page-templates/assets/2016-annual-report/images/logo-automattic-white.png?fit40)](https://automattic.com/)
 
 
 
