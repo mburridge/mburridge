@@ -1,4 +1,4 @@
-## Developer relations at [![Frontity logo](./assets/frontity-logo-sm.png) Frontity](https://frontity.org/)
+## Developer Relations Wrangler at [![Automattic logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdistributed.blog%2Fautomattic-logo-25%2F&psig=AOvVaw0A01EyFelzVvBbiAjIJR0G&ust=1630767971417000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDy9p6K4_ICFQAAAAAdAAAAABAI) Automattic](https://automattic.com/)
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
