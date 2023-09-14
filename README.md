@@ -1,5 +1,3 @@
-## Developer Relations Wrangler at [Automattic](https://automattic.com/)
-
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mburridge&show_icons=true&theme=midnight-purple&hide_border=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 
